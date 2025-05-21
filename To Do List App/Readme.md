@@ -35,7 +35,7 @@ To Do List App/
    git clone https://github.com/Adityapatel-dev/Web-Development.git
    cd "Web-Development/To Do List App"
 
-🔧 Upcoming Features
+## 🔧 Upcoming Features
  Task delete functionality
 
  Save tasks using localStorage

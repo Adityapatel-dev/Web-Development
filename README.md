@@ -6,7 +6,7 @@ Welcome to my **Web Development** repository! This repo contains various small t
 
 - [📝 To-Do List App](./To%20Do%20List%20App) — A simple and responsive task management app  
 - [🌦️ Weather App](./Weather%20App) — Real-time weather info with city search  
-- *(Add your future projects here)*
+
 
 ## 🛠️ Technologies Used
 
